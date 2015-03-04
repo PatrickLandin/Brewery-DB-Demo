@@ -1,0 +1,1 @@
+Solo project written in Swift. Exploring the Brewery DB API. App currently allows for the searching of individual beers. A list of the beer results is displayed in a tableView.
